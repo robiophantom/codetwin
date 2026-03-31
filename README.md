@@ -15,6 +15,13 @@ Ensure you have the pre-built `langs.so` file in `src/codetwin/` directory with 
 
 ## Usage
 
+Install the package in editable mode (from project root):
+
+```bash
+
+pip install -e src
+```
+
 To check similarity between Python files:
 
 ```bash
