@@ -92,7 +92,7 @@ def driver(
                     threshold=threshold,
                 )
 
-                checker.check_v2()
+                checker.check()
                 checkers.append(checker)
                 pbar.update(1)
 
